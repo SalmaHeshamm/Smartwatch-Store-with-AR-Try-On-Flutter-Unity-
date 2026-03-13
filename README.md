@@ -7,7 +7,7 @@ A Flutter mobile application for an watch store featuring **Augmented Reality (A
 ## 🎬 Demo
 
 <div align="center">
-  <video src="https://github.com/SalmaHeshamm/Smartwatch-Store-with-AR-Try-On-Flutter-Unity-/blob/main/assets/video-output-011C9468-38FB-4906-94D3-602F1C1555F6-1.mov"
+  <video src="https://raw.githubusercontent.com/SalmaHeshamm/Smartwatch-Store-with-AR-Try-On-Flutter-Unity-/blob/main/assets/video-output-011C9468-38FB-4906-94D3-602F1C1555F6-1.mov"
          width="300"
          controls
          autoplay
