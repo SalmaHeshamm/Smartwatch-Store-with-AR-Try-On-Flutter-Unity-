@@ -7,14 +7,12 @@ A Flutter mobile application for an watch store featuring **Augmented Reality (A
 ## 🎬 Demo
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/13n5WpyjaHCPFncxwfXCUXYoqBjMuWfRZ/view?usp=drive_link">
-    <img src="https://drive.google.com/thumbnail?id=13n5WpyjaHCPFncxwfXCUXYoqBjMuWfRZ" width="280" alt="AR Try-On Demo Video" style="border-radius: 16px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
-  </a>
-  <br/>
-  <a href="https://drive.google.com/file/d/13n5WpyjaHCPFncxwfXCUXYoqBjMuWfRZ/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-CE1126?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo"/>
-  </a>
-  <p><sub>Click the thumbnail or button to watch the full AR try-on demo 🇪🇬</sub></p>
+  <video src="https://github.com/SalmaHeshamm/Smartwatch-Store-with-AR-Try-On-Flutter-Unity-/blob/main/assets/video-output-011C9468-38FB-4906-94D3-602F1C1555F6-1.mov"
+         width="300"
+         controls
+         autoplay
+         loop>
+  </video>
 </div>
 
 ---
